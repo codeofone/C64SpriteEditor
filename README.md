@@ -4,22 +4,24 @@ An on system C64 sprite editor in BASIC and assembly.
 
 Summary of Sprite Editor Commands
 -------------------------------------------------------------------------------
-Cursor Keys    Navigate around the editor window  
-HOME			     Returns the cursor to the top left  
-SHIFT HOME		 Clears the editor window  
-L/R/U/D		     Move the sprite one pixel left,right,up,down  
--/+			       Cycle through colors for selected pen  
-SHIFT B		     Cycle the background color  
-SHIFT M		     Toggle between single and multicolor modes  
-SHIFT X		     Toggle horizontal expansion of sprite preview  
-SHIFT Y		     Toggle vertical expansion of sprite preview  
-SHIFT H		     Flip the sprite horizontally  
-SHIFT V		     Flip the sprite vertically  
-SHIFT S		     Save the sprite to a binary file  
-SHIFT L		     Load a sprite into the editor from a binary file  
-F8			       Export the sprite as DATA statements to a new BASIC program  
-F2			       Change the address value in the header of the sprite binary file  
-SHIFT Q		     Quit the C64 Sprite Editor  
+| Keys | Description |
+|---|---|  
+| Cursor Keys | Navigate around the editor window |
+| HOME | Returns the cursor to the top left |
+| SHIFT HOME | Clears the editor window |
+| L/R/U/D | Move the sprite one pixel left,right,up,down |
+| -/+ | Cycle through colors for selected pen |
+| SHIFT B | Cycle the background color |
+| SHIFT M | Toggle between single and multicolor modes | 
+| SHIFT X | Toggle horizontal expansion of sprite preview |  
+| SHIFT Y | Toggle vertical expansion of sprite preview |
+| SHIFT H | Flip the sprite horizontally |
+| SHIFT V | Flip the sprite vertically |
+| SHIFT S | Save the sprite to a binary file |
+| SHIFT L | Load a sprite into the editor from a binary file |  
+| F8 | Export the sprite as DATA statements to a new BASIC program |
+| F2 | Change the address value in the header of the sprite binary file |  
+| SHIFT Q | Quit the C64 Sprite Editor |
   
   
 Example of using Sprite from DATA statements  
