@@ -5,13 +5,9 @@ An on system C64 sprite editor in BASIC and assembly.
 Summary of Sprite Editor Commands
 -------------------------------------------------------------------------------
 Cursor Keys    Navigate around the editor window  
-
 HOME			     Returns the cursor to the top left  
-
 SHIFT HOME		 Clears the editor window  
-
 L/R/U/D		     Move the sprite one pixel left,right,up,down  
-
 -/+			       Cycle through colors for selected pen  
 SHIFT B		     Cycle the background color  
 SHIFT M		     Toggle between single and multicolor modes  
